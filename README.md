@@ -16,7 +16,8 @@ python3 WordleMindGame.py
 ## How to play
 To navigate through the program, just type the number of the selection and press enter, for more info on how to play, select the "How to play" option in-game.
 
-
+## Why did I code this?
+I have had a lot of free time this week and I was bored, so I recreated two of my favorite games in python and shared it with you guys! I hope you will enjoy it as much as I do!
 
 It should work fine!
 
